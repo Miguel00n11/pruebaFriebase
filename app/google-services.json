@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "434041472507",
+    "project_id": "fir-tutorial-20221",
+    "storage_bucket": "fir-tutorial-20221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434041472507:android:ff59b0a009cd5e58f6775e",
+        "android_client_info": {
+          "package_name": "com.example.basededatosmiguel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434041472507-8f7p0i6vhv0l9k4pcump3m89lqissc91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmENhIHC4E6njjGLPy7CERSPGGmoLqayQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434041472507-8f7p0i6vhv0l9k4pcump3m89lqissc91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434041472507:android:8fb4b311a7414695f6775e",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434041472507-8f7p0i6vhv0l9k4pcump3m89lqissc91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmENhIHC4E6njjGLPy7CERSPGGmoLqayQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434041472507-8f7p0i6vhv0l9k4pcump3m89lqissc91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434041472507:android:490d16a193e3c89bf6775e",
+        "android_client_info": {
+          "package_name": "com.example.pruebafriebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434041472507-8f7p0i6vhv0l9k4pcump3m89lqissc91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmENhIHC4E6njjGLPy7CERSPGGmoLqayQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434041472507-8f7p0i6vhv0l9k4pcump3m89lqissc91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
