@@ -34,13 +34,67 @@
             android:hint="Provider"
             android:inputType="textPersonName" />
 
+        <EditText
+            android:id="@+id/tvDireccion"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="Calle, Numero, Piso"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/tvPhone"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="Teléfono"
+            android:inputType="phone" />
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:gravity="center"
 
-            android:orientation="horizontal">
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/bGuardar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="@color/teal_200"
+                android:ems="10"
+
+
+                android:text="Guardar" />
+
+            <Button
+                android:id="@+id/bRuperar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="@color/teal_200"
+                android:ems="10"
+
+
+                android:text="Recuperar" />
+
+            <Button
+                android:id="@+id/bEliminar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="@color/teal_200"
+                android:ems="10"
+
+
+                android:text="Eliminar" />
+
+
 
             <Button
                 android:id="@+id/bCerrarSesion"
